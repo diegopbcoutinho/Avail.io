@@ -1,7 +1,7 @@
 # :movie_camera: Avail.io
  Projeto de WebSite de avaliação e informação sobre filmes e cinema.
 
-![image](https://user-images.githubusercontent.com/105460652/185812033-a3664d48-0d4c-4dd1-a727-789cc48791b0.png =250x100)
+![image](https://user-images.githubusercontent.com/105460652/185812033-a3664d48-0d4c-4dd1-a727-789cc48791b0.png)
  
 # :wrench: Funcionalidades
 - Aba de filmes mais avaliados atualizada automaticamente.
